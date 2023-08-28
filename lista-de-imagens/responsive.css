@@ -1,0 +1,22 @@
+@media(max-width: 990px ){
+    .imagens{
+        flex-direction: column;
+    }
+
+    .rome{
+        margin: 30px 10px 0px 10px ;
+    }
+
+    .boat{
+        margin: 0px 10px 0px 10px
+    }
+
+    .sand{
+        margin: 0px 10px 0px 10px
+    }
+
+    .starry{
+        margin: 0px 10px 30px 10px
+    }
+
+}

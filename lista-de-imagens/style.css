@@ -1,0 +1,63 @@
+.imagens{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.rome{
+    margin: 128px 10px 128px 20px;
+    width: 335px;
+    height: 432px;
+    top: 129px;
+    left: 1087px;
+}
+
+#rome1{
+    background: url(./imagens/rome.png);
+}
+
+
+
+.boat{
+    margin: 128px 10px;
+    width: 335px;
+    height: 432px;
+    top: 129px;
+    left: 1087px;
+}
+
+#boat1{
+    background: url(./imagens/boat.png);
+}
+
+
+.sand{
+    margin: 128px 10px;
+    width: 335px;
+    height: 432px;
+    top: 129px;
+    left: 1087px;
+}
+
+#sand1{
+    background: url(./imagens/sand-and-sea.png);
+}
+
+.starry{
+    margin: 128px 10px;
+    width: 335px;
+    height: 432px;
+    top: 129px;
+    left: 1087px;
+}
+
+#starry1{
+    background: url(./imagens/starry-night.png);
+}
+
+.descricao{
+    margin-left: 27px;
+    margin-top: 357px;
+}
+
